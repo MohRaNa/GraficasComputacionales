@@ -24,3 +24,4 @@ Cmd: compileSnippet
   error: 1 plat 26 at (306): 'UNITY_PASS_FORWARDADD': macro redefinition. Previous definition found at :29.
  ok=1 outsize=4110
 
+Cmd: shutdown

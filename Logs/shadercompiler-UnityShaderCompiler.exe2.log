@@ -62,3 +62,4 @@ Cmd: compileSnippet
   error: 1 plat 26 at (36): 'UNITY_PASS_FORWARDBASE': macro redefinition. Previous definition found at :29.
  ok=1 outsize=3858
 
+Cmd: shutdown

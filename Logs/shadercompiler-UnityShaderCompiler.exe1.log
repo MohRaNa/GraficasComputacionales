@@ -46,3 +46,4 @@ Cmd: compileSnippet
   error: 1 plat 26 at (512): 'UNITY_PASS_SHADOWCASTER': macro redefinition. Previous definition found at :29.
  ok=1 outsize=766
 
+Cmd: shutdown

@@ -206,3 +206,227 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 24358.227421 seconds.
+  path: Assets/Stylized Snow Forest/Materials/Skies.mat
+  artifactKey: Guid(c283e3e8551cf9841bbc83657a168bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Materials/Skies.mat using Guid(c283e3e8551cf9841bbc83657a168bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968a76cee3b7fff3501b7946fe6bc8f2') in 0.707361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Stylized Snow Forest/Materials/Water.mat
+  artifactKey: Guid(ee93b79a64d9fb94caff170e3e76794a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Materials/Water.mat using Guid(ee93b79a64d9fb94caff170e3e76794a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ebf0b5aaa3578bcd5d81ea4ace061c') in 0.277869 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 74.690941 seconds.
+  path: Assets/Stylized Snow Forest/Terrain/Snow.asset
+  artifactKey: Guid(31acfad584ab17443aec4027f2fd10e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Terrain/Snow.asset using Guid(31acfad584ab17443aec4027f2fd10e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b377819beb15ab3a211b195a210ee8') in 0.271219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 84
+========================================================================
+Received Import Request.
+  Time since last request: 3.746844 seconds.
+  path: Assets/Stylized Snow Forest/Prefabs/Branch_01.prefab
+  artifactKey: Guid(bd3292034097e454a91893e8a7532f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Prefabs/Branch_01.prefab using Guid(bd3292034097e454a91893e8a7532f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0b4c6d7b03dce9dfcd138d97f7698b') in 0.319606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000597 seconds.
+  path: Assets/Stylized Snow Forest/Prefabs/Pine_02.prefab
+  artifactKey: Guid(1435bc0c1eb87e34cbf37004bcb5f371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Prefabs/Pine_02.prefab using Guid(1435bc0c1eb87e34cbf37004bcb5f371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7889592f9157255939d576d08f600e21') in 0.019682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 19
+========================================================================
+Received Import Request.
+  Time since last request: 0.001071 seconds.
+  path: Assets/Stylized Snow Forest/Prefabs/Fence.prefab
+  artifactKey: Guid(b8497456a0162bb4fa7056f9000cf45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Prefabs/Fence.prefab using Guid(b8497456a0162bb4fa7056f9000cf45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb86595c1b99fc75a3fe577c19652e82') in 0.018935 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Stylized Snow Forest/Prefabs/Branch_03.prefab
+  artifactKey: Guid(037cabecf826b684ebed012479c2acc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Prefabs/Branch_03.prefab using Guid(037cabecf826b684ebed012479c2acc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8c710422f4ad908322e3b9e6f3fce1') in 0.022925 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 26.852303 seconds.
+  path: Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Center.fbx
+  artifactKey: Guid(258cb4865d37b4292be3195af50aaa8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Center.fbx using Guid(258cb4865d37b4292be3195af50aaa8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2c9d2cff9766e1863b131343fd8237') in 0.174488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/Stylized Snow Forest/Resourses/Models/SM_Grass.fbx
+  artifactKey: Guid(705fd60fa80124045a2001a1f14c0ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Resourses/Models/SM_Grass.fbx using Guid(705fd60fa80124045a2001a1f14c0ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60d3742bdf4ba8d8505b10cca51fb12') in 0.083107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/Stylized Snow Forest/Resourses/Models/SM_Rocks.fbx
+  artifactKey: Guid(7ea8ace6ec6fbdf4eaf920ade68b9f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Resourses/Models/SM_Rocks.fbx using Guid(7ea8ace6ec6fbdf4eaf920ade68b9f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ff78a6b308593281c50374b59f934d') in 0.085188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 30
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/Stylized Snow Forest/Resourses/Models/SM_Tree_02.fbx
+  artifactKey: Guid(3f89a9191131d594c9631bcf976babae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Snow Forest/Resourses/Models/SM_Tree_02.fbx using Guid(3f89a9191131d594c9631bcf976babae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b59a482132b94b780276d9d359f8ce') in 0.049524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mohamed Ramos Najera\GraficasComputacionales\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Mohamed Ramos Najera\GraficasComputacionales\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in 16.793 seconds
+Refreshing native plugins compatible for Editor in 7.43 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.382 seconds
+Domain Reload Profiling: 20169ms
+	BeginReloadAssembly (989ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (42ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (511ms)
+	RebuildCommonClasses (61ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (15639ms)
+		LoadAssemblies (15186ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (694ms)
+			TypeCache.Refresh (607ms)
+				TypeCache.ScanAssembly (472ms)
+			ScanForSourceGeneratedMonoScriptInfo (80ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (3383ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (636ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (70ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (373ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 6.02 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3064 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (2.2 MB). Loaded Objects now: 3605.
+Memory consumption went from 134.0 MB to 131.8 MB.
+Total: 6.921800 ms (FindLiveObjects: 0.284200 ms CreateObjectMapping: 0.246000 ms MarkObjects: 4.786900 ms  DeleteObjects: 1.603500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1037.393608 seconds.
+  path: Assets/Dynamic Snow System/Textures/snow_glossiness.png
+  artifactKey: Guid(6e4f536d20b410949b4c8173b47dcdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dynamic Snow System/Textures/snow_glossiness.png using Guid(6e4f536d20b410949b4c8173b47dcdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e52052adf4861b7d18231f01788d700') in 0.125712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Dynamic Snow System/Textures/snow_Height.png
+  artifactKey: Guid(aaeb8a307dd18524cbf61e8b5718678e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dynamic Snow System/Textures/snow_Height.png using Guid(aaeb8a307dd18524cbf61e8b5718678e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84181b370934aa1536c5bf0282d2f09b') in 0.028053 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 18.162145 seconds.
+  path: Assets/QS/QS-Textures-Grass-v1/Textures/QS-GRASS-2.1.png
+  artifactKey: Guid(9258a574148383549ac8f525404331bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QS/QS-Textures-Grass-v1/Textures/QS-GRASS-2.1.png using Guid(9258a574148383549ac8f525404331bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e272e21df76318e8a0015868b612028') in 0.011303 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.004529 seconds.
+  path: Assets/QS/QS-Textures-Grass-v1/Textures/QS-GRASS-5.1.png
+  artifactKey: Guid(3f74625973561224b8d54f04f8549029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QS/QS-Textures-Grass-v1/Textures/QS-GRASS-5.1.png using Guid(3f74625973561224b8d54f04f8549029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4865e435fa050a27e22f57ca932fa44c') in 0.011711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001041 seconds.
+  path: Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png
+  artifactKey: Guid(33cbefefe2c7f4e77ac959c74eef5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png using Guid(33cbefefe2c7f4e77ac959c74eef5d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487c44f1074233045e75b1cb51926935') in 0.013896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000943 seconds.
+  path: Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png
+  artifactKey: Guid(d731d71c2b8e94c18b5ef8be277e6773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png using Guid(d731d71c2b8e94c18b5ef8be277e6773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a51b974a109f07912f3fe552b48e037') in 0.020734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png
+  artifactKey: Guid(d3b809c8b33ff46faa4245f0bca7e6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png using Guid(d3b809c8b33ff46faa4245f0bca7e6fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6873058f83996a41775496c5df81be50') in 0.015555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000799 seconds.
+  path: Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Equirect.png
+  artifactKey: Guid(d4c8dc343ae5d4673b7720ffdb1ddf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Equirect.png using Guid(d4c8dc343ae5d4673b7720ffdb1ddf00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48ce4d755e5d747f3805706aacc3ec2d') in 0.463618 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 375.927204 seconds.
+  path: Assets/Dynamic Snow System/Buffer.prefab
+  artifactKey: Guid(a5d8d2106e2b23e4fa8e6a155b1cae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dynamic Snow System/Buffer.prefab using Guid(a5d8d2106e2b23e4fa8e6a155b1cae1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e652601613a152c3d4adb360da725197') in 0.015194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
